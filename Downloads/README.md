@@ -1,4 +1,4 @@
-﻿# Guessing Game
+# Guessing Game
 
 **Date and Time Generated:** 2026-04-07 21:33:10
 
